@@ -1,0 +1,64 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/subashkumarsaladi/Downloads/so-co-su/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/subashkumarsaladi/Downloads/so-co-su/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "6,35,34,2,4,22,7,28,24,17,16,30,3,23,15,14,5,21,29,11,13,12",
+                        "startColumns": "3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3",
+                        "startOffsets": "258,1169,1108,56,154,805,304,951,897,676,630,1047,100,849,566,520,206,751,995,358,472,413",
+                        "endLines": "6,42,34,2,4,22,7,28,24,17,16,30,3,23,15,14,5,21,29,11,13,12",
+                        "endColumns": "44,9,59,42,50,42,42,42,42,63,44,46,52,46,62,44,50,52,50,53,46,57",
+                        "endOffsets": "299,1468,1164,95,201,844,343,990,936,736,671,1090,149,892,625,561,253,800,1042,408,515,467"
+                    },
+                    "to": {
+                        "startLines": "17,18,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "717,763,1060,1121,1165,1217,1261,1305,1349,1393,1458,1504,1552,1606,1654,1718,1764,1816,1870,1922,1977,2025",
+                        "endLines": "17,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45",
+                        "endColumns": "45,9,60,43,51,43,43,43,43,64,45,47,53,47,63,45,51,53,51,54,47,58",
+                        "endOffsets": "758,1055,1116,1160,1212,1256,1300,1344,1388,1453,1499,1547,1601,1649,1713,1759,1811,1865,1917,1972,2020,2079"
+                    }
+                },
+                {
+                    "source": "/Users/subashkumarsaladi/Downloads/so-co-su/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "10,12,15,16,13,17,18,19,14,20",
+                        "startColumns": "3,3,3,3,3,3,3,3,3,3",
+                        "startOffsets": "450,501,654,702,555,756,806,856,605,906",
+                        "endColumns": "45,52,46,52,48,48,48,48,47,50",
+                        "endOffsets": "492,550,697,751,600,801,851,901,649,953"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "213,260,314,362,416,466,516,566,616,665",
+                        "endColumns": "46,53,47,53,49,49,49,49,48,51",
+                        "endOffsets": "255,309,357,411,461,511,561,611,660,712"
+                    }
+                },
+                {
+                    "source": "/Users/subashkumarsaladi/Downloads/so-co-su/app/src/main/res/values/arrays.xml",
+                    "from": {
+                        "startLines": "10",
+                        "startColumns": "3",
+                        "startOffsets": "450",
+                        "endLines": "14",
+                        "endColumns": "11",
+                        "endOffsets": "607"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "11",
+                        "endOffsets": "208"
+                    }
+                }
+            ]
+        }
+    ]
+}

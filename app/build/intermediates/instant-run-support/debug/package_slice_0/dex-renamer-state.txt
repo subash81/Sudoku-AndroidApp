@@ -1,0 +1,4 @@
+#Sat Dec 02 22:23:55 EST 2017
+base.0=/Users/subashkumarsaladi/Downloads/so-co-su/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

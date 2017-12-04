@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/Users/subashkumarsaladi/Downloads/so-co-su/app/build/intermediates/res/merged/debug/drawable-hdpi_b1.png.flat",
+        "source": "/Users/subashkumarsaladi/Downloads/so-co-su/app/src/main/res/drawable-hdpi/b1.png"
+    },
+    {
+        "merged": "/Users/subashkumarsaladi/Downloads/so-co-su/app/build/intermediates/res/merged/debug/menu_menu.xml.flat",
+        "source": "/Users/subashkumarsaladi/Downloads/so-co-su/app/src/main/res/menu/menu.xml"
+    },
+    {
+        "merged": "/Users/subashkumarsaladi/Downloads/so-co-su/app/build/intermediates/res/merged/debug/drawable-mdpi_btn.png.flat",
+        "source": "/Users/subashkumarsaladi/Downloads/so-co-su/app/src/main/res/drawable-mdpi/btn.png"
+    },
+    {
+        "merged": "/Users/subashkumarsaladi/Downloads/so-co-su/app/build/intermediates/res/merged/debug/layout_keypad.xml.flat",
+        "source": "/Users/subashkumarsaladi/Downloads/so-co-su/app/src/main/res/layout/keypad.xml"
+    },
+    {
+        "merged": "/Users/subashkumarsaladi/Downloads/so-co-su/app/build/intermediates/res/merged/debug/drawable-mdpi_sudoku_1.png.flat",
+        "source": "/Users/subashkumarsaladi/Downloads/so-co-su/app/src/main/res/drawable-mdpi/sudoku_1.png"
+    },
+    {
+        "merged": "/Users/subashkumarsaladi/Downloads/so-co-su/app/build/intermediates/res/merged/debug/drawable-mdpi_btn_1.png.flat",
+        "source": "/Users/subashkumarsaladi/Downloads/so-co-su/app/src/main/res/drawable-mdpi/btn_1.png"
+    },
+    {
+        "merged": "/Users/subashkumarsaladi/Downloads/so-co-su/app/build/intermediates/res/merged/debug/drawable-hdpi_wall_1.png.flat",
+        "source": "/Users/subashkumarsaladi/Downloads/so-co-su/app/src/main/res/drawable-hdpi/wall_1.png"
+    },
+    {
+        "merged": "/Users/subashkumarsaladi/Downloads/so-co-su/app/build/intermediates/res/merged/debug/drawable-ldpi_androback_1.png.flat",
+        "source": "/Users/subashkumarsaladi/Downloads/so-co-su/app/src/main/res/drawable-ldpi/androback_1.png"
+    },
+    {
+        "merged": "/Users/subashkumarsaladi/Downloads/so-co-su/app/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat",
+        "source": "/Users/subashkumarsaladi/Downloads/so-co-su/app/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/Users/subashkumarsaladi/Downloads/so-co-su/app/build/intermediates/res/merged/debug/layout_about.xml.flat",
+        "source": "/Users/subashkumarsaladi/Downloads/so-co-su/app/src/main/res/layout/about.xml"
+    },
+    {
+        "merged": "/Users/subashkumarsaladi/Downloads/so-co-su/app/build/intermediates/res/merged/debug/layout_main1.xml.flat",
+        "source": "/Users/subashkumarsaladi/Downloads/so-co-su/app/src/main/res/layout/main1.xml"
+    },
+    {
+        "merged": "/Users/subashkumarsaladi/Downloads/so-co-su/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/Users/subashkumarsaladi/Downloads/so-co-su/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/subashkumarsaladi/Downloads/so-co-su/app/build/intermediates/res/merged/debug/xml_settings.xml.flat",
+        "source": "/Users/subashkumarsaladi/Downloads/so-co-su/app/src/main/res/xml/settings.xml"
+    },
+    {
+        "merged": "/Users/subashkumarsaladi/Downloads/so-co-su/app/build/intermediates/res/merged/debug/drawable-ldpi_sudoku111.png.flat",
+        "source": "/Users/subashkumarsaladi/Downloads/so-co-su/app/src/main/res/drawable-ldpi/sudoku111.png"
+    },
+    {
+        "merged": "/Users/subashkumarsaladi/Downloads/so-co-su/app/build/intermediates/res/merged/debug/anim_shake.xml.flat",
+        "source": "/Users/subashkumarsaladi/Downloads/so-co-su/app/src/main/res/anim/shake.xml"
+    },
+    {
+        "merged": "/Users/subashkumarsaladi/Downloads/so-co-su/app/build/intermediates/res/merged/debug/layout-land_main.xml.flat",
+        "source": "/Users/subashkumarsaladi/Downloads/so-co-su/app/src/main/res/layout-land/main.xml"
+    },
+    {
+        "merged": "/Users/subashkumarsaladi/Downloads/so-co-su/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
+        "source": "/Users/subashkumarsaladi/Downloads/so-co-su/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/subashkumarsaladi/Downloads/so-co-su/app/build/intermediates/res/merged/debug/drawable-ldpi_button_1.png.flat",
+        "source": "/Users/subashkumarsaladi/Downloads/so-co-su/app/src/main/res/drawable-ldpi/button_1.png"
+    },
+    {
+        "merged": "/Users/subashkumarsaladi/Downloads/so-co-su/app/build/intermediates/res/merged/debug/drawable-hdpi_sudoku.png.flat",
+        "source": "/Users/subashkumarsaladi/Downloads/so-co-su/app/src/main/res/drawable-hdpi/sudoku.png"
+    },
+    {
+        "merged": "/Users/subashkumarsaladi/Downloads/so-co-su/app/build/intermediates/res/merged/debug/anim_cycle_7.xml.flat",
+        "source": "/Users/subashkumarsaladi/Downloads/so-co-su/app/src/main/res/anim/cycle_7.xml"
+    },
+    {
+        "merged": "/Users/subashkumarsaladi/Downloads/so-co-su/app/build/intermediates/res/merged/debug/drawable-mdpi_button1.png.flat",
+        "source": "/Users/subashkumarsaladi/Downloads/so-co-su/app/src/main/res/drawable-mdpi/button1.png"
+    }
+]
